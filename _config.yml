@@ -1,9 +1,9 @@
 # Book settings
 # Learn more at https://jupyterbook.org/customize/config.html
 
-title: 広島大学 2023年度 社会人向けリカレント教育WEB講座 はじめてのデータ分析
+title: 広島大学 2024年度 社会人向けリカレント教育WEB講座 はじめてのデータ分析
 author: Hiroaki Aizawa & Akira Furui
-copyright: "2023 (CC BY 4.0)"
+copyright: "2024 (CC BY 4.0)"
 logo: logo_dalle3.png
 
 # Force re-execution of notebooks on each build.
@@ -22,7 +22,7 @@ bibtex_bibfiles:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/ground-zero-programming/zero-pro2023-reccurent-public  # Online location of your book
+  url: https://github.com/ground-zero-programming/zero-pro2024-reccurent-public  # Online location of your book
   path_to_book: ""  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
